@@ -1,0 +1,13 @@
+C:\Users\rodne\source\repos\WhileIteration\bin\Debug\netcoreapp3.1\WhileIteration.exe
+C:\Users\rodne\source\repos\WhileIteration\bin\Debug\netcoreapp3.1\WhileIteration.deps.json
+C:\Users\rodne\source\repos\WhileIteration\bin\Debug\netcoreapp3.1\WhileIteration.runtimeconfig.json
+C:\Users\rodne\source\repos\WhileIteration\bin\Debug\netcoreapp3.1\WhileIteration.runtimeconfig.dev.json
+C:\Users\rodne\source\repos\WhileIteration\bin\Debug\netcoreapp3.1\WhileIteration.dll
+C:\Users\rodne\source\repos\WhileIteration\bin\Debug\netcoreapp3.1\WhileIteration.pdb
+C:\Users\rodne\source\repos\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.csprojAssemblyReference.cache
+C:\Users\rodne\source\repos\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.AssemblyInfoInputs.cache
+C:\Users\rodne\source\repos\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.AssemblyInfo.cs
+C:\Users\rodne\source\repos\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.csproj.CoreCompileInputs.cache
+C:\Users\rodne\source\repos\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.dll
+C:\Users\rodne\source\repos\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.pdb
+C:\Users\rodne\source\repos\WhileIteration\obj\Debug\netcoreapp3.1\WhileIteration.genruntimeconfig.cache

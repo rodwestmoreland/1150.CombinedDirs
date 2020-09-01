@@ -1,0 +1,6 @@
+C:\Users\rodne\source\repos\ACM\ACME.Commons\bin\Debug\ACME.Commons.dll
+C:\Users\rodne\source\repos\ACM\ACME.Commons\bin\Debug\ACME.Commons.pdb
+C:\Users\rodne\source\repos\ACM\ACME.Commons\obj\Debug\ACME.Commons.csprojAssemblyReference.cache
+C:\Users\rodne\source\repos\ACM\ACME.Commons\obj\Debug\ACME.Commons.csproj.CoreCompileInputs.cache
+C:\Users\rodne\source\repos\ACM\ACME.Commons\obj\Debug\ACME.Commons.dll
+C:\Users\rodne\source\repos\ACM\ACME.Commons\obj\Debug\ACME.Commons.pdb

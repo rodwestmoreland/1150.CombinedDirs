@@ -1,0 +1,13 @@
+C:\Users\rodne\source\repos\WorkingWithCollections\WorkingWithCollections\bin\Debug\netcoreapp3.1\WorkingWithCollections.exe
+C:\Users\rodne\source\repos\WorkingWithCollections\WorkingWithCollections\bin\Debug\netcoreapp3.1\WorkingWithCollections.deps.json
+C:\Users\rodne\source\repos\WorkingWithCollections\WorkingWithCollections\bin\Debug\netcoreapp3.1\WorkingWithCollections.runtimeconfig.json
+C:\Users\rodne\source\repos\WorkingWithCollections\WorkingWithCollections\bin\Debug\netcoreapp3.1\WorkingWithCollections.runtimeconfig.dev.json
+C:\Users\rodne\source\repos\WorkingWithCollections\WorkingWithCollections\bin\Debug\netcoreapp3.1\WorkingWithCollections.dll
+C:\Users\rodne\source\repos\WorkingWithCollections\WorkingWithCollections\bin\Debug\netcoreapp3.1\WorkingWithCollections.pdb
+C:\Users\rodne\source\repos\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.1\WorkingWithCollections.csprojAssemblyReference.cache
+C:\Users\rodne\source\repos\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.1\WorkingWithCollections.AssemblyInfoInputs.cache
+C:\Users\rodne\source\repos\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.1\WorkingWithCollections.AssemblyInfo.cs
+C:\Users\rodne\source\repos\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.1\WorkingWithCollections.csproj.CoreCompileInputs.cache
+C:\Users\rodne\source\repos\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.1\WorkingWithCollections.dll
+C:\Users\rodne\source\repos\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.1\WorkingWithCollections.pdb
+C:\Users\rodne\source\repos\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.1\WorkingWithCollections.genruntimeconfig.cache

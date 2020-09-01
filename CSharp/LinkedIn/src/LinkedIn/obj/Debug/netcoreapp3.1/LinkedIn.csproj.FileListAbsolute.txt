@@ -1,0 +1,13 @@
+C:\Users\rodne\source\repos\LinkedIn\src\LinkedIn\bin\Debug\netcoreapp3.1\LinkedIn.exe
+C:\Users\rodne\source\repos\LinkedIn\src\LinkedIn\bin\Debug\netcoreapp3.1\LinkedIn.deps.json
+C:\Users\rodne\source\repos\LinkedIn\src\LinkedIn\bin\Debug\netcoreapp3.1\LinkedIn.runtimeconfig.json
+C:\Users\rodne\source\repos\LinkedIn\src\LinkedIn\bin\Debug\netcoreapp3.1\LinkedIn.runtimeconfig.dev.json
+C:\Users\rodne\source\repos\LinkedIn\src\LinkedIn\bin\Debug\netcoreapp3.1\LinkedIn.dll
+C:\Users\rodne\source\repos\LinkedIn\src\LinkedIn\bin\Debug\netcoreapp3.1\LinkedIn.pdb
+C:\Users\rodne\source\repos\LinkedIn\src\LinkedIn\obj\Debug\netcoreapp3.1\LinkedIn.csprojAssemblyReference.cache
+C:\Users\rodne\source\repos\LinkedIn\src\LinkedIn\obj\Debug\netcoreapp3.1\LinkedIn.AssemblyInfoInputs.cache
+C:\Users\rodne\source\repos\LinkedIn\src\LinkedIn\obj\Debug\netcoreapp3.1\LinkedIn.AssemblyInfo.cs
+C:\Users\rodne\source\repos\LinkedIn\src\LinkedIn\obj\Debug\netcoreapp3.1\LinkedIn.csproj.CoreCompileInputs.cache
+C:\Users\rodne\source\repos\LinkedIn\src\LinkedIn\obj\Debug\netcoreapp3.1\LinkedIn.dll
+C:\Users\rodne\source\repos\LinkedIn\src\LinkedIn\obj\Debug\netcoreapp3.1\LinkedIn.pdb
+C:\Users\rodne\source\repos\LinkedIn\src\LinkedIn\obj\Debug\netcoreapp3.1\LinkedIn.genruntimeconfig.cache

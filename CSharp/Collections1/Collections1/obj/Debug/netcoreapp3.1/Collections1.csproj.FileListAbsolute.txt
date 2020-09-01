@@ -1,0 +1,13 @@
+C:\Users\rodne\source\repos\Collections1\Collections1\bin\Debug\netcoreapp3.1\Collections1.exe
+C:\Users\rodne\source\repos\Collections1\Collections1\bin\Debug\netcoreapp3.1\Collections1.deps.json
+C:\Users\rodne\source\repos\Collections1\Collections1\bin\Debug\netcoreapp3.1\Collections1.runtimeconfig.json
+C:\Users\rodne\source\repos\Collections1\Collections1\bin\Debug\netcoreapp3.1\Collections1.runtimeconfig.dev.json
+C:\Users\rodne\source\repos\Collections1\Collections1\bin\Debug\netcoreapp3.1\Collections1.dll
+C:\Users\rodne\source\repos\Collections1\Collections1\bin\Debug\netcoreapp3.1\Collections1.pdb
+C:\Users\rodne\source\repos\Collections1\Collections1\obj\Debug\netcoreapp3.1\Collections1.csprojAssemblyReference.cache
+C:\Users\rodne\source\repos\Collections1\Collections1\obj\Debug\netcoreapp3.1\Collections1.AssemblyInfoInputs.cache
+C:\Users\rodne\source\repos\Collections1\Collections1\obj\Debug\netcoreapp3.1\Collections1.AssemblyInfo.cs
+C:\Users\rodne\source\repos\Collections1\Collections1\obj\Debug\netcoreapp3.1\Collections1.csproj.CoreCompileInputs.cache
+C:\Users\rodne\source\repos\Collections1\Collections1\obj\Debug\netcoreapp3.1\Collections1.dll
+C:\Users\rodne\source\repos\Collections1\Collections1\obj\Debug\netcoreapp3.1\Collections1.pdb
+C:\Users\rodne\source\repos\Collections1\Collections1\obj\Debug\netcoreapp3.1\Collections1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\rodne\source\repos\classesProject\bin\Debug\netcoreapp3.1\classesProject.exe
+C:\Users\rodne\source\repos\classesProject\bin\Debug\netcoreapp3.1\classesProject.deps.json
+C:\Users\rodne\source\repos\classesProject\bin\Debug\netcoreapp3.1\classesProject.runtimeconfig.json
+C:\Users\rodne\source\repos\classesProject\bin\Debug\netcoreapp3.1\classesProject.runtimeconfig.dev.json
+C:\Users\rodne\source\repos\classesProject\bin\Debug\netcoreapp3.1\classesProject.dll
+C:\Users\rodne\source\repos\classesProject\bin\Debug\netcoreapp3.1\classesProject.pdb
+C:\Users\rodne\source\repos\classesProject\obj\Debug\netcoreapp3.1\classesProject.csprojAssemblyReference.cache
+C:\Users\rodne\source\repos\classesProject\obj\Debug\netcoreapp3.1\classesProject.AssemblyInfoInputs.cache
+C:\Users\rodne\source\repos\classesProject\obj\Debug\netcoreapp3.1\classesProject.AssemblyInfo.cs
+C:\Users\rodne\source\repos\classesProject\obj\Debug\netcoreapp3.1\classesProject.csproj.CoreCompileInputs.cache
+C:\Users\rodne\source\repos\classesProject\obj\Debug\netcoreapp3.1\classesProject.dll
+C:\Users\rodne\source\repos\classesProject\obj\Debug\netcoreapp3.1\classesProject.pdb
+C:\Users\rodne\source\repos\classesProject\obj\Debug\netcoreapp3.1\classesProject.genruntimeconfig.cache

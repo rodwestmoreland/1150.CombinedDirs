@@ -1,0 +1,13 @@
+C:\Users\rodne\source\repos\DictionaryExample\DictionaryExample\obj\Debug\netcoreapp3.1\DictionaryExample.csprojAssemblyReference.cache
+C:\Users\rodne\source\repos\DictionaryExample\DictionaryExample\obj\Debug\netcoreapp3.1\DictionaryExample.AssemblyInfoInputs.cache
+C:\Users\rodne\source\repos\DictionaryExample\DictionaryExample\obj\Debug\netcoreapp3.1\DictionaryExample.AssemblyInfo.cs
+C:\Users\rodne\source\repos\DictionaryExample\DictionaryExample\obj\Debug\netcoreapp3.1\DictionaryExample.csproj.CoreCompileInputs.cache
+C:\Users\rodne\source\repos\DictionaryExample\DictionaryExample\bin\Debug\netcoreapp3.1\DictionaryExample.exe
+C:\Users\rodne\source\repos\DictionaryExample\DictionaryExample\bin\Debug\netcoreapp3.1\DictionaryExample.deps.json
+C:\Users\rodne\source\repos\DictionaryExample\DictionaryExample\bin\Debug\netcoreapp3.1\DictionaryExample.runtimeconfig.json
+C:\Users\rodne\source\repos\DictionaryExample\DictionaryExample\bin\Debug\netcoreapp3.1\DictionaryExample.runtimeconfig.dev.json
+C:\Users\rodne\source\repos\DictionaryExample\DictionaryExample\bin\Debug\netcoreapp3.1\DictionaryExample.dll
+C:\Users\rodne\source\repos\DictionaryExample\DictionaryExample\bin\Debug\netcoreapp3.1\DictionaryExample.pdb
+C:\Users\rodne\source\repos\DictionaryExample\DictionaryExample\obj\Debug\netcoreapp3.1\DictionaryExample.dll
+C:\Users\rodne\source\repos\DictionaryExample\DictionaryExample\obj\Debug\netcoreapp3.1\DictionaryExample.pdb
+C:\Users\rodne\source\repos\DictionaryExample\DictionaryExample\obj\Debug\netcoreapp3.1\DictionaryExample.genruntimeconfig.cache

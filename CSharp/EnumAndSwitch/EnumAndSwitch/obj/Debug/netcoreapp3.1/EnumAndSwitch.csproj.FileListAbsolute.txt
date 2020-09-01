@@ -1,0 +1,13 @@
+C:\Users\rodne\source\repos\EnumAndSwitch\EnumAndSwitch\bin\Debug\netcoreapp3.1\EnumAndSwitch.exe
+C:\Users\rodne\source\repos\EnumAndSwitch\EnumAndSwitch\bin\Debug\netcoreapp3.1\EnumAndSwitch.deps.json
+C:\Users\rodne\source\repos\EnumAndSwitch\EnumAndSwitch\bin\Debug\netcoreapp3.1\EnumAndSwitch.runtimeconfig.json
+C:\Users\rodne\source\repos\EnumAndSwitch\EnumAndSwitch\bin\Debug\netcoreapp3.1\EnumAndSwitch.runtimeconfig.dev.json
+C:\Users\rodne\source\repos\EnumAndSwitch\EnumAndSwitch\bin\Debug\netcoreapp3.1\EnumAndSwitch.dll
+C:\Users\rodne\source\repos\EnumAndSwitch\EnumAndSwitch\bin\Debug\netcoreapp3.1\EnumAndSwitch.pdb
+C:\Users\rodne\source\repos\EnumAndSwitch\EnumAndSwitch\obj\Debug\netcoreapp3.1\EnumAndSwitch.csprojAssemblyReference.cache
+C:\Users\rodne\source\repos\EnumAndSwitch\EnumAndSwitch\obj\Debug\netcoreapp3.1\EnumAndSwitch.AssemblyInfoInputs.cache
+C:\Users\rodne\source\repos\EnumAndSwitch\EnumAndSwitch\obj\Debug\netcoreapp3.1\EnumAndSwitch.AssemblyInfo.cs
+C:\Users\rodne\source\repos\EnumAndSwitch\EnumAndSwitch\obj\Debug\netcoreapp3.1\EnumAndSwitch.csproj.CoreCompileInputs.cache
+C:\Users\rodne\source\repos\EnumAndSwitch\EnumAndSwitch\obj\Debug\netcoreapp3.1\EnumAndSwitch.dll
+C:\Users\rodne\source\repos\EnumAndSwitch\EnumAndSwitch\obj\Debug\netcoreapp3.1\EnumAndSwitch.pdb
+C:\Users\rodne\source\repos\EnumAndSwitch\EnumAndSwitch\obj\Debug\netcoreapp3.1\EnumAndSwitch.genruntimeconfig.cache

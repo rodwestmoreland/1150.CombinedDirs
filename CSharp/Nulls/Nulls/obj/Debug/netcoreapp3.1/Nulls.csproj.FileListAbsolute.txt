@@ -1,0 +1,13 @@
+C:\Users\rodne\source\repos\Nulls\Nulls\bin\Debug\netcoreapp3.1\Nulls.exe
+C:\Users\rodne\source\repos\Nulls\Nulls\bin\Debug\netcoreapp3.1\Nulls.deps.json
+C:\Users\rodne\source\repos\Nulls\Nulls\bin\Debug\netcoreapp3.1\Nulls.runtimeconfig.json
+C:\Users\rodne\source\repos\Nulls\Nulls\bin\Debug\netcoreapp3.1\Nulls.runtimeconfig.dev.json
+C:\Users\rodne\source\repos\Nulls\Nulls\bin\Debug\netcoreapp3.1\Nulls.dll
+C:\Users\rodne\source\repos\Nulls\Nulls\bin\Debug\netcoreapp3.1\Nulls.pdb
+C:\Users\rodne\source\repos\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.csprojAssemblyReference.cache
+C:\Users\rodne\source\repos\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.AssemblyInfoInputs.cache
+C:\Users\rodne\source\repos\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.AssemblyInfo.cs
+C:\Users\rodne\source\repos\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.csproj.CoreCompileInputs.cache
+C:\Users\rodne\source\repos\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.dll
+C:\Users\rodne\source\repos\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.pdb
+C:\Users\rodne\source\repos\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.genruntimeconfig.cache

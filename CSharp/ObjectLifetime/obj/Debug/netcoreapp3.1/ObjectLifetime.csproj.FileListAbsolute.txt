@@ -1,0 +1,13 @@
+C:\Users\rodne\source\repos\ObjectLifetime\bin\Debug\netcoreapp3.1\ObjectLifetime.exe
+C:\Users\rodne\source\repos\ObjectLifetime\bin\Debug\netcoreapp3.1\ObjectLifetime.deps.json
+C:\Users\rodne\source\repos\ObjectLifetime\bin\Debug\netcoreapp3.1\ObjectLifetime.runtimeconfig.json
+C:\Users\rodne\source\repos\ObjectLifetime\bin\Debug\netcoreapp3.1\ObjectLifetime.runtimeconfig.dev.json
+C:\Users\rodne\source\repos\ObjectLifetime\bin\Debug\netcoreapp3.1\ObjectLifetime.dll
+C:\Users\rodne\source\repos\ObjectLifetime\bin\Debug\netcoreapp3.1\ObjectLifetime.pdb
+C:\Users\rodne\source\repos\ObjectLifetime\obj\Debug\netcoreapp3.1\ObjectLifetime.csprojAssemblyReference.cache
+C:\Users\rodne\source\repos\ObjectLifetime\obj\Debug\netcoreapp3.1\ObjectLifetime.AssemblyInfoInputs.cache
+C:\Users\rodne\source\repos\ObjectLifetime\obj\Debug\netcoreapp3.1\ObjectLifetime.AssemblyInfo.cs
+C:\Users\rodne\source\repos\ObjectLifetime\obj\Debug\netcoreapp3.1\ObjectLifetime.csproj.CoreCompileInputs.cache
+C:\Users\rodne\source\repos\ObjectLifetime\obj\Debug\netcoreapp3.1\ObjectLifetime.dll
+C:\Users\rodne\source\repos\ObjectLifetime\obj\Debug\netcoreapp3.1\ObjectLifetime.pdb
+C:\Users\rodne\source\repos\ObjectLifetime\obj\Debug\netcoreapp3.1\ObjectLifetime.genruntimeconfig.cache

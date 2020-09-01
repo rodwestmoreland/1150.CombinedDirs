@@ -1,0 +1,13 @@
+C:\Users\rodne\source\repos\Queries\Queries\bin\Debug\netcoreapp3.1\Queries.exe
+C:\Users\rodne\source\repos\Queries\Queries\bin\Debug\netcoreapp3.1\Queries.deps.json
+C:\Users\rodne\source\repos\Queries\Queries\bin\Debug\netcoreapp3.1\Queries.runtimeconfig.json
+C:\Users\rodne\source\repos\Queries\Queries\bin\Debug\netcoreapp3.1\Queries.runtimeconfig.dev.json
+C:\Users\rodne\source\repos\Queries\Queries\bin\Debug\netcoreapp3.1\Queries.dll
+C:\Users\rodne\source\repos\Queries\Queries\bin\Debug\netcoreapp3.1\Queries.pdb
+C:\Users\rodne\source\repos\Queries\Queries\obj\Debug\netcoreapp3.1\Queries.csprojAssemblyReference.cache
+C:\Users\rodne\source\repos\Queries\Queries\obj\Debug\netcoreapp3.1\Queries.AssemblyInfoInputs.cache
+C:\Users\rodne\source\repos\Queries\Queries\obj\Debug\netcoreapp3.1\Queries.AssemblyInfo.cs
+C:\Users\rodne\source\repos\Queries\Queries\obj\Debug\netcoreapp3.1\Queries.csproj.CoreCompileInputs.cache
+C:\Users\rodne\source\repos\Queries\Queries\obj\Debug\netcoreapp3.1\Queries.dll
+C:\Users\rodne\source\repos\Queries\Queries\obj\Debug\netcoreapp3.1\Queries.pdb
+C:\Users\rodne\source\repos\Queries\Queries\obj\Debug\netcoreapp3.1\Queries.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\rodne\source\repos\StudentTracker\StudentTracker\bin\Debug\netcoreapp3.1\StudentTracker.exe
+C:\Users\rodne\source\repos\StudentTracker\StudentTracker\bin\Debug\netcoreapp3.1\StudentTracker.deps.json
+C:\Users\rodne\source\repos\StudentTracker\StudentTracker\bin\Debug\netcoreapp3.1\StudentTracker.runtimeconfig.json
+C:\Users\rodne\source\repos\StudentTracker\StudentTracker\bin\Debug\netcoreapp3.1\StudentTracker.runtimeconfig.dev.json
+C:\Users\rodne\source\repos\StudentTracker\StudentTracker\bin\Debug\netcoreapp3.1\StudentTracker.dll
+C:\Users\rodne\source\repos\StudentTracker\StudentTracker\bin\Debug\netcoreapp3.1\StudentTracker.pdb
+C:\Users\rodne\source\repos\StudentTracker\StudentTracker\obj\Debug\netcoreapp3.1\StudentTracker.csprojAssemblyReference.cache
+C:\Users\rodne\source\repos\StudentTracker\StudentTracker\obj\Debug\netcoreapp3.1\StudentTracker.AssemblyInfoInputs.cache
+C:\Users\rodne\source\repos\StudentTracker\StudentTracker\obj\Debug\netcoreapp3.1\StudentTracker.AssemblyInfo.cs
+C:\Users\rodne\source\repos\StudentTracker\StudentTracker\obj\Debug\netcoreapp3.1\StudentTracker.csproj.CoreCompileInputs.cache
+C:\Users\rodne\source\repos\StudentTracker\StudentTracker\obj\Debug\netcoreapp3.1\StudentTracker.dll
+C:\Users\rodne\source\repos\StudentTracker\StudentTracker\obj\Debug\netcoreapp3.1\StudentTracker.pdb
+C:\Users\rodne\source\repos\StudentTracker\StudentTracker\obj\Debug\netcoreapp3.1\StudentTracker.genruntimeconfig.cache
