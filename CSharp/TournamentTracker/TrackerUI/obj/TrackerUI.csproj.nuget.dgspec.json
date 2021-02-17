@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodne\\source\\repos\\TournamentTracker\\TrackerUI\\TrackerUI.csproj": {}
+    "C:\\Users\\rodne\\source\\repos\\CSharp\\TournamentTracker\\TrackerUI\\TrackerUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodne\\source\\repos\\TournamentTracker\\TrackerUI\\TrackerUI.csproj": {
+    "C:\\Users\\rodne\\source\\repos\\CSharp\\TournamentTracker\\TrackerUI\\TrackerUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodne\\source\\repos\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+        "projectUniqueName": "C:\\Users\\rodne\\source\\repos\\CSharp\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
         "projectName": "TrackerUI",
-        "projectPath": "C:\\Users\\rodne\\source\\repos\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+        "projectPath": "C:\\Users\\rodne\\source\\repos\\CSharp\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
         "packagesPath": "C:\\Users\\rodne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodne\\source\\repos\\TournamentTracker\\TrackerUI\\obj\\",
+        "outputPath": "C:\\Users\\rodne\\source\\repos\\CSharp\\TournamentTracker\\TrackerUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rodne\\AppData\\Roaming\\NuGet\\NuGet.Config",

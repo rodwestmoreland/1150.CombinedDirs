@@ -1,9 +1,0 @@
-C:\Users\rodne\source\repos\ACM\ACM.BL\bin\Debug\ACM.BL.dll
-C:\Users\rodne\source\repos\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
-C:\Users\rodne\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
-C:\Users\rodne\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
-C:\Users\rodne\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.dll
-C:\Users\rodne\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
-C:\Users\rodne\source\repos\ACM\ACM.BL\bin\Debug\ACME.Commons.dll
-C:\Users\rodne\source\repos\ACM\ACM.BL\bin\Debug\ACME.Commons.pdb
-C:\Users\rodne\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CopyComplete
